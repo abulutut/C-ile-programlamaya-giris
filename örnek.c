@@ -1,0 +1,2 @@
+// Örnek dosya
+main(){}
