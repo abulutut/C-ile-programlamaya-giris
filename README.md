@@ -1,1 +1,1 @@
-#Çözümünüzü buraya atabilirsiniz.
+# Çözümünüzü buraya atabilirsiniz.
