@@ -7,12 +7,7 @@ Bu kaynak, programlamaya yeni başlayan öğrencilere alıştırma egzersizleri 
 - Eğer soruyu çözdüyseniz ve ünlü olmak istiyorsanız siz de kodunuzu yükleyebilirsiniz. Bunun için de aynı ekranda sağda bulunan add filea tıklayıp ister kopyala yapıştır ister direk dosya yükleme şeklinde çözümünüzü yollayabilirsiniz. 
 - Ben bundan anlamadım hiç derseniz yada daha fazlasını merak ederseniz 3 sene önce benzerini yapmış [bilgisayar kavramları videosuna bakabilirsiniz](https://www.youtube.com/watch?v=o4v8W_4jEC0)
 
-Here's our logo (hover to see the title text):
-
-Inline-style: 
+Anlaşılmayan kısımlar için resimleri inceleyiniz:
+1:
 ![alt text](https://github.com/abulutut/C-ile-programlamaya-giris/blob/master/image.png "Logo Title Text 1")
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/abulutut/C-ile-programlamaya-giris/blob/master/image.png "Logo Title Text 2"
