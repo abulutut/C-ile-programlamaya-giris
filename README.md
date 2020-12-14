@@ -8,6 +8,10 @@ Bu kaynak, programlamaya yeni başlayan öğrencilere alıştırma egzersizleri 
 - Ben bundan anlamadım hiç derseniz yada daha fazlasını merak ederseniz 3 sene önce benzerini yapmış [bilgisayar kavramları videosuna bakabilirsiniz](https://www.youtube.com/watch?v=o4v8W_4jEC0)
 
 Anlaşılmayan kısımlar için resimleri inceleyiniz:
-1:
-![alt text](https://github.com/abulutut/C-ile-programlamaya-giris/blob/master/image.png "Logo Title Text 1")
+
+![alt text](https://github.com/abulutut/C-ile-programlamaya-giris/blob/master/image.png "image1")
+![alt text](https://github.com/abulutut/C-ile-programlamaya-giris/blob/master/image2.png "image3")
+![alt text](https://github.com/abulutut/C-ile-programlamaya-giris/blob/master/image3.png "image4")
+![alt text](https://github.com/abulutut/C-ile-programlamaya-giris/blob/master/image4.png "image5")
+![alt text](https://github.com/abulutut/C-ile-programlamaya-giris/blob/master/image5.png "image6")
 
