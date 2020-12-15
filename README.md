@@ -1,1 +1,5 @@
-# Sizin çözümleriniz
+#include <stdio.h>
+int main() {
+  printf("merhabadunya"/n);
+  return 0;
+  }
