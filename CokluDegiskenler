@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main() {
+    int gun;
+    int ay;
+	int yil;
+	
+	printf("Gün ay ve yıl giriniz: ");
+	scanf("%d", &gun);
+	scanf("%d", &ay);
+	scanf("%d", &yil);
+	
+	printf("Ay gün yıl: %d/%d/%d\n", ay,gun,yil);
+	printf("Yıl ay gün: %d/%d/%d\n\n", yil,ay,gun);
+	
+	printf("Gün ay yıl: %d\\%d\\%d", gun,ay,yil);
+	
+    return 0;
+}
