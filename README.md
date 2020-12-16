@@ -1,5 +1,5 @@
-#include <stdio.h>
-int main() {
-  printf("merhabadunya"/n);
-  return 0;
-  }
+## Sizin çözümleriniz
+<!---
+kodunuzu buraya yazmayın 
+burası readme dosyasının içi
+-->
