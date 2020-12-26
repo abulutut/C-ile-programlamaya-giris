@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+int sayi = 8;
+printf("Degiskenin icine atadıgımız sayı = %d",sayi);
+
+return 0;
+
+}
