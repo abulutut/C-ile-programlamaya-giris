@@ -1,1 +1,0 @@
-## Sizin çözümleriniz
