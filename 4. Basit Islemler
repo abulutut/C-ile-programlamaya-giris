@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main() {
+int sayi1,sayi2;
+printf("Lutfen 2 tane sayi giriniz.\n");
+scanf("%d%d",&sayi1,&sayi2);
+printf("girdiginiz ilk sayi = %d\t girdiginiz ikinci sayi = %d\n",sayi1,sayi2 );
+printf("ilk sayi + ikinci sayi = %d\n",sayi1+sayi2);
+printf("ilk sayi - ikinci sayi = %d\n",sayi1-sayi2);
+printf("ilk sayi x ikinci sayi = %d\n",sayi1*sayi2);
+printf("ilk sayi / ikinci sayi = %f\n",(float)sayi1/sayi2);
+printf("ilk sayinin ikinci sayiya bolumunden kalan = %d ",sayi1 % sayi2);
+return 0;
+}

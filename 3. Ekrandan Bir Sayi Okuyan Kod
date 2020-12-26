@@ -1,0 +1,11 @@
+#include<stdio.h>
+
+int main() {
+int sayi;
+printf("Lutfen ekrana bir sayi giriniz\t");
+scanf("%d",&sayi);
+printf("Girdiginiz sayi = %d",sayi);
+
+return 0;
+
+}
