@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+int ssene,dsene;
+printf("Lutfen bulundugunuz seneyi ve dogum senenizi ayri ayri giriniz\n");
+scanf("%d%d",&ssene,&dsene);
+printf("Siz suan %d yasindasiniz\n",ssene-dsene);
+while(dsene%4 != 0)dsene++;
+printf("siz dogumunuzdan suana kadar toplamda %d kere 29 Subat'i gordunuz.",(ssene-dsene)/4+1);
+
+return 0;
+}
