@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+
+char tarih[50];
+printf("Lutfen Gun/Ay/Sene olacak sekilde bir tarih giriniz :\t");
+scanf("%s",tarih);
+
+printf("Ay/Gun/Sene = %c%c/%c%c/%c%c%c%c\n",tarih[3],tarih[4],tarih[0],tarih[1],tarih[6],tarih[7],tarih[8],tarih[9]);
+printf("Sene/Ay/Gun = %c%c%c%c/%c%c/%c%c\n",tarih[6],tarih[7],tarih[8],tarih[9],tarih[3],tarih[4],tarih[0],tarih[1]);
+printf("Gun\"Ay\"Sene = %c%c\"%c%c\"%c%c%c%c\n",tarih[0],tarih[1],tarih[3],tarih[4],tarih[6],tarih[7],tarih[8],tarih[9]);
+
+return 0;
+}
+
+
